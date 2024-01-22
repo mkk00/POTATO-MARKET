@@ -227,4 +227,4 @@ VITE_APP_ID = []
 
 |          [김동률](https://github.com/DoctorK4)           |          [김미경](https://github.com/mkk00)           |          [배상우](https://github.com/bsw98)           |          [안유진](https://github.com/Anyudbwls)           |          [이성령](https://github.com/sryung1225)           |
 | :------------------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: |
-| ![김동률의 프로필 사진](https://github.com/DoctorK4.png) | ![김미경의 프로필 사진](https://github.com/tiramin.png) | ![배상우의 프로필 사진](https://github.com/bsw98.png) | ![안유진의 프로필 사진](https://github.com/Anyudbwls.png) | ![이성령의 프로필 사진](https://github.com/sryung1225.png) |
+| ![김동률의 프로필 사진](https://github.com/DoctorK4.png) | ![김미경의 프로필 사진](https://github.com/mkk00.png) | ![배상우의 프로필 사진](https://github.com/bsw98.png) | ![안유진의 프로필 사진](https://github.com/Anyudbwls.png) | ![이성령의 프로필 사진](https://github.com/sryung1225.png) |
